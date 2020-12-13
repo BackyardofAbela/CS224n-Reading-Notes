@@ -38,3 +38,6 @@
 [斯坦福大学 CS224n自然语言处理与深度学习笔记汇总](<https://zhuanlan.zhihu.com/p/31977759>) (这是针对note部分的翻译)
 
 [Notes on Stanford CS224n](https://lintongmao.github.io/nlp_wv/)
+
+## Acknowledgement
+感谢[立波师兄](https://github.com/yizhen20133868/)对本次课程资料与笔记总结过程中的组织与指导
